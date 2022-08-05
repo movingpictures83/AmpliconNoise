@@ -1,0 +1,2 @@
+flowfile	pipelines/AmpliconNoise/C005.dat
+lookupfile	pipelines/AmpliconNoise/LookUp_E123.dat

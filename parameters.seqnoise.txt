@@ -1,0 +1,7 @@
+fastafile	pipelines/AmpliconNoise/output_s60_c01_T220.fa
+distfile	pipelines/AmpliconNoise/output_s60_c01_T220.seqdist
+listfile	pipelines/AmpliconNoise/output_s60_c01_T220_S.list
+lookupfile	pipelines/AmpliconNoise/Tran.dat
+s	30.0
+c	0.08
+mapfile	pipelines/AmpliconNoise/output_s60_c01.mapping

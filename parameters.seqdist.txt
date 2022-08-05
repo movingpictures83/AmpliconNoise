@@ -1,0 +1,2 @@
+fastafile	pipelines/AmpliconNoise/output_s60_c01_T220.fa
+lookupfile	pipelines/AmpliconNoise/Tran.dat

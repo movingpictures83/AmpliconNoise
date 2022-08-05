@@ -1,0 +1,6 @@
+input	pipelines/AmpliconNoise/C005.dat
+output	pipelines/AmpliconNoise/output_s60_c01
+listinput	pipelines/AmpliconNoise/output.fcluster.list
+lookupfile	pipelines/AmpliconNoise/LookUp_E123.dat
+s	60.0
+c	0.01
