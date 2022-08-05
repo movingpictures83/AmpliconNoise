@@ -3,9 +3,9 @@ Plugin PyroDist inputfile parameters.pyrodist.txt outputfile output.pyrodist
 Plugin FCluster inputfile output.pyrodist.fdist outputfile output.fcluster
 Plugin PyroNoiseM inputfile parameters.pyronoisem.txt outputfile output.pyronoisem
 Plugin Truncate inputfile parameters.truncate.txt outputfile output_s60_c01_T220.fa
-Plugin SeqDist inputfile parameters.seqdist.txt outputfile output_s60_c01_T220.seqdist
+lugin SeqDist inputfile parameters.seqdist.txt outputfile output_s60_c01_T220.seqdist
 Plugin FCluster inputfile output_s60_c01_T220.seqdist outputfile output_s60_c01_T220_S
 Plugin SeqNoise inputfile parameters.seqnoise.txt outputfile output_s60_c01_T220_s30_c08
 Plugin RemovePrimer inputfile parameters.primers.txt outputfile output_s60_c01_T220_s30_c08_P.fa
-Plugin NDist inputfile output_s60_c01_T220_s30_c08_P.fa outputfile output_s60_c01_T220_s30_c08_P.ndist
+Plugin NeedlemanWunsch inputfile output_s60_c01_T220_s30_c08_P.fa outputfile output_s60_c01_T220_s30_c08_P.ndist
 Plugin FCluster inputfile output_s60_c01_T220_s30_c08_P.ndist outputfile output_s60_c01_T220_s30_c08_P
